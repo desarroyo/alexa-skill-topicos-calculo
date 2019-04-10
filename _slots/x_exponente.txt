@@ -1,0 +1,2 @@
+cubo,3,a la potencia cubica,al cubo,cubica
+cuadrado,2,a la potencia cuadratica,a la potencia cuadrada,cuadrada,al cuadrado,cuadratica,cuadratico

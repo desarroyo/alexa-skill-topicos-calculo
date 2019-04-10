@@ -1,0 +1,10 @@
+{pregunta_derivada} {variable} {x_exponente}
+{pregunta_derivada} {x_valor} a la {x_exponente_numero}
+{pregunta_derivada} {variable} al {x_exponente}
+{pregunta_derivada} {variable} a la {x_exponente_numero}
+{pregunta_derivada} {variable} elevado a la {x_exponente_numero}
+{pregunta_derivada} {x_valor} al {x_exponente}
+{pregunta_derivada} {x_valor}
+{pregunta_derivada} {variable}
+{pregunta_derivada} {x_valor} {variable} al {x_exponente}
+{pregunta_derivada} {variable} a la potencia {x_exponente_numero}

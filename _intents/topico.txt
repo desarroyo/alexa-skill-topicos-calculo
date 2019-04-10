@@ -1,0 +1,1 @@
+{pregunta_topico} {topico_text}
